@@ -1,14 +1,24 @@
 [
-  {"codigo": "REG-001", "medicamentos": ["acetaminofen", "ibuprofeno"]},
-  {"codigo": "REG-002", "medicamentos": ["paracetamol"]},
-  {"codigo": "REG-003", "medicamentos": ["losartan", "metformina"]},
-  {"codigo": "REG-004", "medicamentos": ["acetaminofén"]},
-  {"codigo": "REG-005", "medicamentos": ["ibuprofeno"]},
-  {"codigo": "REG-006", "medicamentos": ["Acetaminofen", "loratadina"]},
-  {"codigo": "REG-007", "medicamentos": ["paracetamol", "omeprazol"]},
-  {"codigo": "REG-008", "medicamentos": ["losartan"]},
-  {"codigo": "REG-009", "medicamentos": ["ibuprofeno", "acetaminofen"]},
-  {"codigo": "REG-010", "medicamentos": ["metformina"]},
-  {"codigo": "REG-011", "medicamentos": ["paracetamol", "losartan"]},
-  {"codigo": "REG-012", "medicamentos": ["loratadina", "Acetaminofen"]}
+  {
+    "codigo": "REG-001",
+    "fecha": "2026-11-04",
+    "sede": "Sede Norte",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "Acetaminofen",
+      "Ibuprofeno"
+    ]
+  },
+  {
+    "codigo": "REG-002",
+    "fecha": "2026-11-04",
+    "sede": "Sede Central",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      " paracetamol ",
+      "losartán"
+    ]
+  }
 ]
