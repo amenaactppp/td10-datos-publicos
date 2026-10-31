@@ -8,6 +8,10 @@
     "medicamentos": [
       "Acetaminofen",
       "Ibuprofeno"
-    ]
+    ],
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-001",
+    "grupo_edad": "40-59",
+    "diagnostico": "Hipertensión arterial"
   }
 ]
