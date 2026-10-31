@@ -9,16 +9,5 @@
       "Acetaminofen",
       "Ibuprofeno"
     ]
-  },
-  {
-    "codigo": "REG-002",
-    "fecha": "2026-11-04",
-    "sede": "Sede Central",
-    "canal": "formulario",
-    "estado": "revisado",
-    "medicamentos": [
-      " paracetamol ",
-      "losartán"
-    ]
   }
 ]
