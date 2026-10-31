@@ -1,14 +1,7 @@
-# Registros de medicamentos sintéticos
+# Fuente sintética de la semana 8
 
-Cada objeto de `registros.json` tiene:
+`registros.json` contiene una lista que el docente hace crecer de 2 a 3, 10, 20, 50 y 100 registros. Cada objeto tiene `codigo`, `fecha`, `sede`, `canal`, `estado` y una lista `medicamentos` de longitud variable. El docente también puede agregar, editar o quitar registros durante la sesión.
 
-- `codigo`: identificador ficticio único, por ejemplo `REG-001`.
-- `medicamentos`: lista de nombres escritos en el registro.
+`equivalencias.json` contiene un diccionario de variante → nombre común. Sus claves y valores se guardan con `strip().casefold()`. Así, `PARACETAMOL` y `paracetamol` se consultan igual; las diferencias de acentos y los sinónimos se unen solo con una regla explícita.
 
-La primera escena contiene 12 registros y 19 menciones. La actualización en
-vivo incorpora tres registros más, sin cambiar el esquema. Los nombres pueden
-variar en mayúsculas o escritura; la clase define explícitamente las reglas
-para agrupar equivalencias.
-
-El contenido es sintético y se ofrece bajo CC0 1.0. No describe pacientes,
-recetas, tratamientos ni inventario reales.
+Ambos archivos se publican juntos desde el panel docente. El estudiantado los lee por la API pública de GitHub. Los datos son ficticios y se ofrecen bajo CC0 1.0; no describen pacientes, recetas, tratamientos ni inventario reales.
