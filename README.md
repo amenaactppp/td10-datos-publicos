@@ -4,7 +4,7 @@ Repositorio independiente de datos sintéticos y material abierto para clases de
 
 ## Fuente activa
 
-- `datos/registros.json`: registros ficticios con `codigo`, `fecha`, `sede`, `canal`, `estado` y una lista `medicamentos`.
+- `datos/registros.json`: atenciones ficticias con `codigo`, `fecha`, `sede`, `hospital`, `paciente_id`, `grupo_edad`, `diagnostico`, `canal`, `estado` y una lista `medicamentos`.
 - `datos/equivalencias.json`: reglas para reunir variantes bajo una clave común. Tanto las claves como los valores están en minúsculas; el programa estudiantil aplica `strip().casefold()` antes de consultarlas.
 
 La clase comienza con dos registros. El docente puede ampliar la fuente a 3, 10, 20, 50 y 100, agregar o editar registros y publicar cada cambio. La URL permanece estable; el historial Git permite revisar cada versión. El estudiantado solo lee los JSON públicos y vuelve a ejecutar su programa para observar el cambio.
@@ -18,7 +18,7 @@ https://api.github.com/repos/amenaactppp/td10-datos-publicos/contents/datos/equi
 
 La solicitud usa `Accept: application/vnd.github.raw+json` para recibir JSON directamente. El programa de clase incluye la lectura por API y copias locales de respaldo. La fuente pública no requiere credenciales de estudiante. Evite consultas continuas: basta con ejecutar de nuevo después de una publicación.
 
-Los nombres son datos de práctica para lectura de JSON, ciclos y diccionarios contadores. Las cifras son menciones en registros sintéticos; no representan pacientes, recetas, tratamientos ni inventarios reales.
+Los códigos de paciente son inventados. Un mismo código puede aparecer en varias atenciones; esto permite distinguir registros de pacientes distintos. Los nombres de medicamentos son datos de práctica para lectura de JSON, ciclos y diccionarios contadores. Su coincidencia con un diagnóstico no representa una prescripción ni una recomendación médica.
 
 ## Organización futura
 
