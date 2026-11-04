@@ -49,5 +49,124 @@
       "ACETAMINOFÉN",
       "metformina"
     ]
+  },
+  {
+    "codigo": "REG-004",
+    "fecha": "2026-11-04",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-003",
+    "paciente_nombre": "Valeria Vega Navarro",
+    "paciente_cedula": "FIC-000003",
+    "grupo_edad": "0-17",
+    "diagnostico": "Gastritis",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "losartán",
+      "antiácido"
+    ]
+  },
+  {
+    "codigo": "REG-005",
+    "fecha": "2026-11-04",
+    "sede": "Sede Sur",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-004",
+    "paciente_nombre": "Mateo Solís Cordero",
+    "paciente_cedula": "FIC-000004",
+    "grupo_edad": "18-39",
+    "diagnostico": "Migraña",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      "paracetamol",
+      " paracetamol ",
+      "Ibuprofeno"
+    ]
+  },
+  {
+    "codigo": "REG-006",
+    "fecha": "2026-11-04",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-004",
+    "paciente_nombre": "Mateo Solís Cordero",
+    "paciente_cedula": "FIC-000004",
+    "grupo_edad": "18-39",
+    "diagnostico": "Alergia estacional",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "losartan"
+    ]
+  },
+  {
+    "codigo": "REG-007",
+    "fecha": "2026-11-04",
+    "sede": "Sede Norte",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-005",
+    "paciente_nombre": "Camila Rojas Porras",
+    "paciente_cedula": "FIC-000005",
+    "grupo_edad": "40-59",
+    "diagnostico": "Dolor musculoesquelético",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      " paracetamol ",
+      "Loratadina"
+    ]
+  },
+  {
+    "codigo": "REG-008",
+    "fecha": "2026-11-04",
+    "sede": "Sede Central",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-005",
+    "paciente_nombre": "Camila Rojas Porras",
+    "paciente_cedula": "FIC-000005",
+    "grupo_edad": "40-59",
+    "diagnostico": "Infección respiratoria",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      "PARACETAMOL",
+      "antiacido",
+      "Acetaminofen"
+    ]
+  },
+  {
+    "codigo": "REG-009",
+    "fecha": "2026-11-04",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-006",
+    "paciente_nombre": "Andrés Campos Quesada",
+    "paciente_cedula": "FIC-000006",
+    "grupo_edad": "60+",
+    "diagnostico": "Hipertensión arterial",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      " paracetamol "
+    ]
+  },
+  {
+    "codigo": "REG-010",
+    "fecha": "2026-11-04",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-006",
+    "paciente_nombre": "Andrés Campos Quesada",
+    "paciente_cedula": "FIC-000006",
+    "grupo_edad": "60+",
+    "diagnostico": "Diabetes tipo 2",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "metformina",
+      "paracetamol"
+    ]
   }
 ]
