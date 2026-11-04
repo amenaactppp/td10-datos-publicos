@@ -849,5 +849,854 @@
       "paracetamol",
       "losartán"
     ]
+  },
+  {
+    "codigo": "REG-051",
+    "fecha": "2026-11-07",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-027",
+    "paciente_nombre": "Lucía Acuña Calderón",
+    "paciente_cedula": "FIC-000027",
+    "grupo_edad": "0-17",
+    "diagnostico": "Asma",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      "paracetamol"
+    ]
+  },
+  {
+    "codigo": "REG-052",
+    "fecha": "2026-11-07",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-027",
+    "paciente_nombre": "Lucía Acuña Calderón",
+    "paciente_cedula": "FIC-000027",
+    "grupo_edad": "0-17",
+    "diagnostico": "Gastritis",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "Acetaminofen",
+      "omeprazol"
+    ]
+  },
+  {
+    "codigo": "REG-053",
+    "fecha": "2026-11-07",
+    "sede": "Sede Sur",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-028",
+    "paciente_nombre": "Emilio Salazar Rivas",
+    "paciente_cedula": "FIC-000028",
+    "grupo_edad": "18-39",
+    "diagnostico": "Migraña",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      "Salbutamol",
+      "Losartan",
+      "atorvastatina"
+    ]
+  },
+  {
+    "codigo": "REG-054",
+    "fecha": "2026-11-07",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-028",
+    "paciente_nombre": "Emilio Salazar Rivas",
+    "paciente_cedula": "FIC-000028",
+    "grupo_edad": "18-39",
+    "diagnostico": "Alergia estacional",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      " IBUPROFENO "
+    ]
+  },
+  {
+    "codigo": "REG-055",
+    "fecha": "2026-11-07",
+    "sede": "Sede Norte",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-029",
+    "paciente_nombre": "Daniela Navarro Soto",
+    "paciente_cedula": "FIC-000029",
+    "grupo_edad": "40-59",
+    "diagnostico": "Dolor musculoesquelético",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      "Loratadina",
+      "antiácido"
+    ]
+  },
+  {
+    "codigo": "REG-056",
+    "fecha": "2026-11-07",
+    "sede": "Sede Central",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-029",
+    "paciente_nombre": "Daniela Navarro Soto",
+    "paciente_cedula": "FIC-000029",
+    "grupo_edad": "40-59",
+    "diagnostico": "Infección respiratoria",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      "Salbutamol",
+      " IBUPROFENO ",
+      "antiácido"
+    ]
+  },
+  {
+    "codigo": "REG-057",
+    "fecha": "2026-11-07",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-030",
+    "paciente_nombre": "Gabriel Cordero Villalobos",
+    "paciente_cedula": "FIC-000030",
+    "grupo_edad": "60+",
+    "diagnostico": "Hipertensión arterial",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      "paracetamol"
+    ]
+  },
+  {
+    "codigo": "REG-058",
+    "fecha": "2026-11-07",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-030",
+    "paciente_nombre": "Gabriel Cordero Villalobos",
+    "paciente_cedula": "FIC-000030",
+    "grupo_edad": "60+",
+    "diagnostico": "Diabetes tipo 2",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "Omeprazol",
+      "losartan"
+    ]
+  },
+  {
+    "codigo": "REG-059",
+    "fecha": "2026-11-07",
+    "sede": "Sede Sur",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-031",
+    "paciente_nombre": "Mariana Porras Montero",
+    "paciente_cedula": "FIC-000031",
+    "grupo_edad": "0-17",
+    "diagnostico": "Asma",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      "salbutamol",
+      "acetaminofen",
+      "losartán"
+    ]
+  },
+  {
+    "codigo": "REG-060",
+    "fecha": "2026-11-07",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-031",
+    "paciente_nombre": "Mariana Porras Montero",
+    "paciente_cedula": "FIC-000031",
+    "grupo_edad": "0-17",
+    "diagnostico": "Gastritis",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "losartán"
+    ]
+  },
+  {
+    "codigo": "REG-061",
+    "fecha": "2026-11-07",
+    "sede": "Sede Norte",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-032",
+    "paciente_nombre": "Nicolás Quesada León",
+    "paciente_cedula": "FIC-000032",
+    "grupo_edad": "18-39",
+    "diagnostico": "Migraña",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      "Acetaminofen",
+      "loratadina"
+    ]
+  },
+  {
+    "codigo": "REG-062",
+    "fecha": "2026-11-07",
+    "sede": "Sede Central",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-032",
+    "paciente_nombre": "Nicolás Quesada León",
+    "paciente_cedula": "FIC-000032",
+    "grupo_edad": "18-39",
+    "diagnostico": "Alergia estacional",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      "Loratadina",
+      "metformina",
+      " paracetamol "
+    ]
+  },
+  {
+    "codigo": "REG-063",
+    "fecha": "2026-11-07",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-033",
+    "paciente_nombre": "Elena Chaves Pineda",
+    "paciente_cedula": "FIC-000033",
+    "grupo_edad": "40-59",
+    "diagnostico": "Dolor musculoesquelético",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      "antiácido"
+    ]
+  },
+  {
+    "codigo": "REG-064",
+    "fecha": "2026-11-07",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-033",
+    "paciente_nombre": "Elena Chaves Pineda",
+    "paciente_cedula": "FIC-000033",
+    "grupo_edad": "40-59",
+    "diagnostico": "Infección respiratoria",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "salbutamol",
+      "Losartan"
+    ]
+  },
+  {
+    "codigo": "REG-065",
+    "fecha": "2026-11-08",
+    "sede": "Sede Sur",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-034",
+    "paciente_nombre": "Samuel Calderón Mora",
+    "paciente_cedula": "FIC-000034",
+    "grupo_edad": "60+",
+    "diagnostico": "Hipertensión arterial",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      "paracetamol",
+      "Losartan",
+      "antiácido"
+    ]
+  },
+  {
+    "codigo": "REG-066",
+    "fecha": "2026-11-08",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-034",
+    "paciente_nombre": "Samuel Calderón Mora",
+    "paciente_cedula": "FIC-000034",
+    "grupo_edad": "60+",
+    "diagnostico": "Diabetes tipo 2",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "acetaminofen"
+    ]
+  },
+  {
+    "codigo": "REG-067",
+    "fecha": "2026-11-08",
+    "sede": "Sede Norte",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-035",
+    "paciente_nombre": "Paula Rivas Araya",
+    "paciente_cedula": "FIC-000035",
+    "grupo_edad": "0-17",
+    "diagnostico": "Asma",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      " IBUPROFENO ",
+      "metformina"
+    ]
+  },
+  {
+    "codigo": "REG-068",
+    "fecha": "2026-11-08",
+    "sede": "Sede Central",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-035",
+    "paciente_nombre": "Paula Rivas Araya",
+    "paciente_cedula": "FIC-000035",
+    "grupo_edad": "0-17",
+    "diagnostico": "Gastritis",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      "losartan",
+      "antiácido",
+      "PARACETAMOL"
+    ]
+  },
+  {
+    "codigo": "REG-069",
+    "fecha": "2026-11-08",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-036",
+    "paciente_nombre": "Julián Soto Vega",
+    "paciente_cedula": "FIC-000036",
+    "grupo_edad": "18-39",
+    "diagnostico": "Migraña",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      "PARACETAMOL"
+    ]
+  },
+  {
+    "codigo": "REG-070",
+    "fecha": "2026-11-08",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-036",
+    "paciente_nombre": "Julián Soto Vega",
+    "paciente_cedula": "FIC-000036",
+    "grupo_edad": "18-39",
+    "diagnostico": "Alergia estacional",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "ACETAMINOFÉN",
+      "antiacido"
+    ]
+  },
+  {
+    "codigo": "REG-071",
+    "fecha": "2026-11-08",
+    "sede": "Sede Sur",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-037",
+    "paciente_nombre": "Isabella Villalobos Solís",
+    "paciente_cedula": "FIC-000037",
+    "grupo_edad": "40-59",
+    "diagnostico": "Dolor musculoesquelético",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      "METFORMINA",
+      "acetaminofen",
+      " paracetamol "
+    ]
+  },
+  {
+    "codigo": "REG-072",
+    "fecha": "2026-11-08",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-037",
+    "paciente_nombre": "Isabella Villalobos Solís",
+    "paciente_cedula": "FIC-000037",
+    "grupo_edad": "40-59",
+    "diagnostico": "Infección respiratoria",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "Loratadina"
+    ]
+  },
+  {
+    "codigo": "REG-073",
+    "fecha": "2026-11-08",
+    "sede": "Sede Norte",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-038",
+    "paciente_nombre": "Tomás Montero Rojas",
+    "paciente_cedula": "FIC-000038",
+    "grupo_edad": "60+",
+    "diagnostico": "Hipertensión arterial",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      "Loratadina",
+      "antiacido"
+    ]
+  },
+  {
+    "codigo": "REG-074",
+    "fecha": "2026-11-08",
+    "sede": "Sede Central",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-038",
+    "paciente_nombre": "Tomás Montero Rojas",
+    "paciente_cedula": "FIC-000038",
+    "grupo_edad": "60+",
+    "diagnostico": "Diabetes tipo 2",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      " IBUPROFENO ",
+      "Atorvastatina",
+      "Loratadina"
+    ]
+  },
+  {
+    "codigo": "REG-075",
+    "fecha": "2026-11-08",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-039",
+    "paciente_nombre": "Natalia León Campos",
+    "paciente_cedula": "FIC-000039",
+    "grupo_edad": "0-17",
+    "diagnostico": "Asma",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      "antiacido"
+    ]
+  },
+  {
+    "codigo": "REG-076",
+    "fecha": "2026-11-08",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-039",
+    "paciente_nombre": "Natalia León Campos",
+    "paciente_cedula": "FIC-000039",
+    "grupo_edad": "0-17",
+    "diagnostico": "Gastritis",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "antiacido",
+      " IBUPROFENO "
+    ]
+  },
+  {
+    "codigo": "REG-077",
+    "fecha": "2026-11-08",
+    "sede": "Sede Sur",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-040",
+    "paciente_nombre": "David Pineda Acuña",
+    "paciente_cedula": "FIC-000040",
+    "grupo_edad": "18-39",
+    "diagnostico": "Migraña",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      " paracetamol ",
+      "loratadina",
+      "ACETAMINOFÉN"
+    ]
+  },
+  {
+    "codigo": "REG-078",
+    "fecha": "2026-11-08",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-040",
+    "paciente_nombre": "David Pineda Acuña",
+    "paciente_cedula": "FIC-000040",
+    "grupo_edad": "18-39",
+    "diagnostico": "Alergia estacional",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "atorvastatina"
+    ]
+  },
+  {
+    "codigo": "REG-079",
+    "fecha": "2026-11-08",
+    "sede": "Sede Norte",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-041",
+    "paciente_nombre": "Sofía Mora Navarro",
+    "paciente_cedula": "FIC-000041",
+    "grupo_edad": "40-59",
+    "diagnostico": "Dolor musculoesquelético",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      "Loratadina",
+      "Atorvastatina"
+    ]
+  },
+  {
+    "codigo": "REG-080",
+    "fecha": "2026-11-08",
+    "sede": "Sede Central",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-041",
+    "paciente_nombre": "Sofía Mora Navarro",
+    "paciente_cedula": "FIC-000041",
+    "grupo_edad": "40-59",
+    "diagnostico": "Infección respiratoria",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      "paracetamol",
+      "Atorvastatina",
+      "Loratadina"
+    ]
+  },
+  {
+    "codigo": "REG-081",
+    "fecha": "2026-11-09",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-042",
+    "paciente_nombre": "Diego Araya Cordero",
+    "paciente_cedula": "FIC-000042",
+    "grupo_edad": "60+",
+    "diagnostico": "Hipertensión arterial",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      "losartan"
+    ]
+  },
+  {
+    "codigo": "REG-082",
+    "fecha": "2026-11-09",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-042",
+    "paciente_nombre": "Diego Araya Cordero",
+    "paciente_cedula": "FIC-000042",
+    "grupo_edad": "60+",
+    "diagnostico": "Diabetes tipo 2",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "metformina",
+      "Loratadina"
+    ]
+  },
+  {
+    "codigo": "REG-083",
+    "fecha": "2026-11-09",
+    "sede": "Sede Sur",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-043",
+    "paciente_nombre": "Valeria Vega Porras",
+    "paciente_cedula": "FIC-000043",
+    "grupo_edad": "0-17",
+    "diagnostico": "Asma",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      "salbutamol",
+      "losartan",
+      "Losartan"
+    ]
+  },
+  {
+    "codigo": "REG-084",
+    "fecha": "2026-11-09",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-043",
+    "paciente_nombre": "Valeria Vega Porras",
+    "paciente_cedula": "FIC-000043",
+    "grupo_edad": "0-17",
+    "diagnostico": "Gastritis",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "paracetamol"
+    ]
+  },
+  {
+    "codigo": "REG-085",
+    "fecha": "2026-11-09",
+    "sede": "Sede Norte",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-044",
+    "paciente_nombre": "Mateo Solís Quesada",
+    "paciente_cedula": "FIC-000044",
+    "grupo_edad": "18-39",
+    "diagnostico": "Migraña",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      "Losartan",
+      "loratadina"
+    ]
+  },
+  {
+    "codigo": "REG-086",
+    "fecha": "2026-11-09",
+    "sede": "Sede Central",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-044",
+    "paciente_nombre": "Mateo Solís Quesada",
+    "paciente_cedula": "FIC-000044",
+    "grupo_edad": "18-39",
+    "diagnostico": "Alergia estacional",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      " paracetamol ",
+      "Omeprazol",
+      "paracetamol"
+    ]
+  },
+  {
+    "codigo": "REG-087",
+    "fecha": "2026-11-09",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-045",
+    "paciente_nombre": "Camila Rojas Chaves",
+    "paciente_cedula": "FIC-000045",
+    "grupo_edad": "40-59",
+    "diagnostico": "Dolor musculoesquelético",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      "ibuprofeno"
+    ]
+  },
+  {
+    "codigo": "REG-088",
+    "fecha": "2026-11-09",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-045",
+    "paciente_nombre": "Camila Rojas Chaves",
+    "paciente_cedula": "FIC-000045",
+    "grupo_edad": "40-59",
+    "diagnostico": "Infección respiratoria",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "acetaminofen",
+      "Losartan"
+    ]
+  },
+  {
+    "codigo": "REG-089",
+    "fecha": "2026-11-09",
+    "sede": "Sede Sur",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-046",
+    "paciente_nombre": "Andrés Campos Calderón",
+    "paciente_cedula": "FIC-000046",
+    "grupo_edad": "60+",
+    "diagnostico": "Hipertensión arterial",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      "losartan",
+      "loratadina",
+      "ibuprofeno"
+    ]
+  },
+  {
+    "codigo": "REG-090",
+    "fecha": "2026-11-09",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-046",
+    "paciente_nombre": "Andrés Campos Calderón",
+    "paciente_cedula": "FIC-000046",
+    "grupo_edad": "60+",
+    "diagnostico": "Diabetes tipo 2",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "antiacido"
+    ]
+  },
+  {
+    "codigo": "REG-091",
+    "fecha": "2026-11-09",
+    "sede": "Sede Norte",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-047",
+    "paciente_nombre": "Lucía Acuña Rivas",
+    "paciente_cedula": "FIC-000047",
+    "grupo_edad": "0-17",
+    "diagnostico": "Asma",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      "Loratadina",
+      "antiacido"
+    ]
+  },
+  {
+    "codigo": "REG-092",
+    "fecha": "2026-11-09",
+    "sede": "Sede Central",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-047",
+    "paciente_nombre": "Lucía Acuña Rivas",
+    "paciente_cedula": "FIC-000047",
+    "grupo_edad": "0-17",
+    "diagnostico": "Gastritis",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      " IBUPROFENO ",
+      "atorvastatina",
+      "ACETAMINOFÉN"
+    ]
+  },
+  {
+    "codigo": "REG-093",
+    "fecha": "2026-11-09",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-048",
+    "paciente_nombre": "Emilio Salazar Soto",
+    "paciente_cedula": "FIC-000048",
+    "grupo_edad": "18-39",
+    "diagnostico": "Migraña",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      "metformina"
+    ]
+  },
+  {
+    "codigo": "REG-094",
+    "fecha": "2026-11-09",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-048",
+    "paciente_nombre": "Emilio Salazar Soto",
+    "paciente_cedula": "FIC-000048",
+    "grupo_edad": "18-39",
+    "diagnostico": "Alergia estacional",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "salbutamol",
+      "paracetamol"
+    ]
+  },
+  {
+    "codigo": "REG-095",
+    "fecha": "2026-11-09",
+    "sede": "Sede Sur",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-049",
+    "paciente_nombre": "Daniela Navarro Villalobos",
+    "paciente_cedula": "FIC-000049",
+    "grupo_edad": "40-59",
+    "diagnostico": "Dolor musculoesquelético",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      " IBUPROFENO ",
+      "Atorvastatina",
+      "atorvastatina"
+    ]
+  },
+  {
+    "codigo": "REG-096",
+    "fecha": "2026-11-09",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-049",
+    "paciente_nombre": "Daniela Navarro Villalobos",
+    "paciente_cedula": "FIC-000049",
+    "grupo_edad": "40-59",
+    "diagnostico": "Infección respiratoria",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "losartán"
+    ]
+  },
+  {
+    "codigo": "REG-097",
+    "fecha": "2026-11-10",
+    "sede": "Sede Norte",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-050",
+    "paciente_nombre": "Gabriel Cordero Montero",
+    "paciente_cedula": "FIC-000050",
+    "grupo_edad": "60+",
+    "diagnostico": "Hipertensión arterial",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      "paracetamol",
+      "Omeprazol"
+    ]
+  },
+  {
+    "codigo": "REG-098",
+    "fecha": "2026-11-10",
+    "sede": "Sede Central",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-050",
+    "paciente_nombre": "Gabriel Cordero Montero",
+    "paciente_cedula": "FIC-000050",
+    "grupo_edad": "60+",
+    "diagnostico": "Diabetes tipo 2",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      "ibuprofeno",
+      " paracetamol ",
+      "PARACETAMOL"
+    ]
+  },
+  {
+    "codigo": "REG-099",
+    "fecha": "2026-11-10",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-051",
+    "paciente_nombre": "Mariana Porras León",
+    "paciente_cedula": "FIC-000051",
+    "grupo_edad": "0-17",
+    "diagnostico": "Asma",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      "losartan"
+    ]
+  },
+  {
+    "codigo": "REG-100",
+    "fecha": "2026-11-10",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-051",
+    "paciente_nombre": "Mariana Porras León",
+    "paciente_cedula": "FIC-000051",
+    "grupo_edad": "0-17",
+    "diagnostico": "Gastritis",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "antiacido",
+      "omeprazol"
+    ]
   }
 ]
