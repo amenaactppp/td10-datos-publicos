@@ -33,5 +33,22 @@
       "paracetamol",
       "losartán"
     ]
+  },
+  {
+    "codigo": "REG-003",
+    "fecha": "2026-11-04",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-001",
+    "paciente_nombre": "Sofía Mora Acuña",
+    "paciente_cedula": "1-9999-0001",
+    "grupo_edad": "40-59",
+    "diagnostico": "Diabetes tipo 2",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "ACETAMINOFÉN",
+      "metformina"
+    ]
   }
 ]
