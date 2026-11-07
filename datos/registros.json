@@ -171,5 +171,175 @@
       "ibuprofeno",
       "omeprazol"
     ]
+  },
+  {
+    "codigo": "REG-011",
+    "fecha": "2026-11-04",
+    "sede": "Sede Sur",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-007",
+    "paciente_nombre": "Lucía Acuña Chaves",
+    "paciente_cedula": "1-9999-0007",
+    "grupo_edad": "0-17",
+    "diagnostico": "Asma",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      "Salbutamol",
+      "PARACETAMOL",
+      "omeprazol"
+    ]
+  },
+  {
+    "codigo": "REG-012",
+    "fecha": "2026-11-04",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-007",
+    "paciente_nombre": "Lucía Acuña Chaves",
+    "paciente_cedula": "1-9999-0007",
+    "grupo_edad": "0-17",
+    "diagnostico": "Gastritis",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "losartán"
+    ]
+  },
+  {
+    "codigo": "REG-013",
+    "fecha": "2026-11-04",
+    "sede": "Sede Norte",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-008",
+    "paciente_nombre": "Emilio Salazar Calderón",
+    "paciente_cedula": "1-9999-0008",
+    "grupo_edad": "18-39",
+    "diagnostico": "Migraña",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      "Loratadina",
+      "Ibuprofeno"
+    ]
+  },
+  {
+    "codigo": "REG-014",
+    "fecha": "2026-11-04",
+    "sede": "Sede Central",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-008",
+    "paciente_nombre": "Emilio Salazar Calderón",
+    "paciente_cedula": "1-9999-0008",
+    "grupo_edad": "18-39",
+    "diagnostico": "Alergia estacional",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      "Loratadina",
+      "Losartan",
+      "Ibuprofeno"
+    ]
+  },
+  {
+    "codigo": "REG-015",
+    "fecha": "2026-11-04",
+    "sede": "Sede Caribe",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-009",
+    "paciente_nombre": "Daniela Navarro Rivas",
+    "paciente_cedula": "1-9999-0009",
+    "grupo_edad": "40-59",
+    "diagnostico": "Dolor musculoesquelético",
+    "canal": "teléfono",
+    "estado": "revisado",
+    "medicamentos": [
+      "PARACETAMOL"
+    ]
+  },
+  {
+    "codigo": "REG-016",
+    "fecha": "2026-11-04",
+    "sede": "Sede Pacífico",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-009",
+    "paciente_nombre": "Daniela Navarro Rivas",
+    "paciente_cedula": "1-9999-0009",
+    "grupo_edad": "40-59",
+    "diagnostico": "Infección respiratoria",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "antiacido",
+      "Atorvastatina"
+    ]
+  },
+  {
+    "codigo": "REG-017",
+    "fecha": "2026-11-05",
+    "sede": "Sede Sur",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-010",
+    "paciente_nombre": "Gabriel Cordero Soto",
+    "paciente_cedula": "1-9999-0010",
+    "grupo_edad": "60+",
+    "diagnostico": "Hipertensión arterial",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      "METFORMINA",
+      "antiácido"
+    ]
+  },
+  {
+    "codigo": "REG-018",
+    "fecha": "2026-11-05",
+    "sede": "Sede Occidente",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-010",
+    "paciente_nombre": "Gabriel Cordero Soto",
+    "paciente_cedula": "1-9999-0010",
+    "grupo_edad": "60+",
+    "diagnostico": "Diabetes tipo 2",
+    "canal": "teléfono",
+    "estado": "pendiente",
+    "medicamentos": [
+      "antiácido"
+    ]
+  },
+  {
+    "codigo": "REG-019",
+    "fecha": "2026-11-05",
+    "sede": "Sede Norte",
+    "hospital": "Hospital de la Costa",
+    "paciente_id": "PAC-011",
+    "paciente_nombre": "Mariana Porras Villalobos",
+    "paciente_cedula": "1-9999-0011",
+    "grupo_edad": "0-17",
+    "diagnostico": "Asma",
+    "canal": "ventanilla",
+    "estado": "revisado",
+    "medicamentos": [
+      "acetaminofen",
+      "Omeprazol"
+    ]
+  },
+  {
+    "codigo": "REG-020",
+    "fecha": "2026-11-05",
+    "sede": "Sede Central",
+    "hospital": "Hospital de la Montaña",
+    "paciente_id": "PAC-011",
+    "paciente_nombre": "Mariana Porras Villalobos",
+    "paciente_cedula": "1-9999-0011",
+    "grupo_edad": "0-17",
+    "diagnostico": "Gastritis",
+    "canal": "formulario",
+    "estado": "pendiente",
+    "medicamentos": [
+      "Ibuprofeno",
+      "Omeprazol",
+      "losartán"
+    ]
   }
 ]
